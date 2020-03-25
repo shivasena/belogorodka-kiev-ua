@@ -1,0 +1,8 @@
+{
+    "menuItems": [
+        { "name": "Головна", "link": "/" },
+        { "name": "Про нас", "link": "/about" },
+        { "name": "Блог", "link": "/blog" },
+        { "name": "Контакти", "link": "/contact" }
+    ]
+}

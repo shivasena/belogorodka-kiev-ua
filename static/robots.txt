@@ -1,2 +1,4 @@
 User-agent: * 
 Disallow: /
+
+Sitemap: https://belogorodka.kiev.ua/sitemap.xml
